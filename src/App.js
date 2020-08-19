@@ -1,7 +1,6 @@
 import React , { Component } from 'react';
 import './App.css';
 import Nav from './Nav';
-import "bootstrap/dist/css/bootstrap.min.css";
 class App extends Component{
   state = {
     group1 : 0,
